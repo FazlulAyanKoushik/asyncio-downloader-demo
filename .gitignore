@@ -127,6 +127,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.idea
+idea/
+images_01/*
+images_02/*
 
 # Spyder project settings
 .spyderproject
